@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-6.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Lucene/lib/lucene-analyzers-common-6.3.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lucene-core-6.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Lucene/lib/lucene-core-6.3.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lucene-facet-6.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Lucene/lib/lucene-facet-6.3.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lucene-queryparser-6.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Lucene/lib/lucene-queryparser-6.3.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lucene-suggest-6.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Lucene/lib/lucene-suggest-6.3.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
